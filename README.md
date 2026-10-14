@@ -57,9 +57,9 @@ print(x)
 ```
 
 ## Output:
-(i)
+(5a)
 <img width="1468" height="817" alt="Screenshot 2026-10-14 085727" src="https://github.com/user-attachments/assets/438131f1-99fa-4ef5-91c7-2fe824112c81" />
-(ii)
+(5b)
 <img width="1477" height="622" alt="Screenshot 2026-10-14 085747" src="https://github.com/user-attachments/assets/a5f46e97-f8d8-4b74-bb38-41b72848a41a" />
 
 ## Result:
